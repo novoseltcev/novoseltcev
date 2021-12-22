@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=st-a-novoseltcev&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&custom_title=Hi%20there%20%f0%9f%91%8b)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=st-a-novoseltcev&theme=github_dark&show_icons=true&count_private=true&custom_title=Hi%20there%20%f0%9f%91%8b)
 
 <br/>
 
@@ -15,8 +15,10 @@
 ![Flask](https://img.shields.io/badge/Flask-1D334A?style=for-the-badge&lfor-the-badgel&logo=flask&logoColor=orange)
 ![SQLAlchemyORM](https://img.shields.io/badge/SQLAlchemyORM-1D334A?style=for-the-badge&logo=amazondynamodb&logoColor=red)
 ![Celery](https://img.shields.io/badge/Celery-1D334A?style=for-the-badge&logo=celery&logoColor=green)
+
 ![Redis](https://img.shields.io/badge/redis-1D334A?style=for-the-badge&logo=redis&)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D334A?style=for-the-badge&logo=postgresql&)
+
 ![Docker](https://img.shields.io/badge/Docker-1D334A?style=for-the-badge&logo=docker&)
 ![Linux](https://img.shields.io/badge/Linux-1D334A?style=for-the-badge&logo=linux&)
 ![HTML](https://img.shields.io/badge/Html-1D334A?style=for-the-badge&logo=html5&) 

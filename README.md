@@ -9,32 +9,34 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Connect with me:
-[<img align="left" alt="st-a-novoseltcev | VK"       width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="st-a-novoseltcev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="st-a-novoseltcev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Contacts:
+
+[![Telegram](https://img.shields.io/badge/Telegram-important?style=for-the-badge&logo=telegram)][telegram] 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&)][linkedin]
+[![VK](https://img.shields.io/badge/VK-black?style=for-the-badge&logo=vk&)][vk]
 
 <br/>
 
-### Languages:
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=) 
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2b%2b&) 
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java) 
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C/C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&)
+![HTML](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&) 
 
-<br/>
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&lfor-the-badgel&logo=flask)
+![SQLAlchemyORM](https://img.shields.io/badge/SQLAlchemyORM-black?style=for-the-badge&logo=amazondynamodb&)
+![Celery](https://img.shields.io/badge/Celery-black?style=for-the-badge&logo=celery&)
 
-### Tools:
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&)
+<!-- ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&) -->
 
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
-<img align="left" alt="PostgresSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&)
 
 <br />
 <br />

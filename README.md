@@ -28,8 +28,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-1D334A?style=for-the-badge&logo=telegram)][telegram] 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1D334A?style=for-the-badge&logo=linkedin&logoColor=yellowgreen)][linkedin]
 [![VK](https://img.shields.io/badge/VK-1D334A?style=for-the-badge&logo=vk&logoColor=07f)][vk]
+[![Email](https://img.shields.io/badge/Email-1D334A?style=for-the-badge&logo=gmail&logoColor=07f)][email]
 
 
 [vk]: https://vk.com/st.a.novoseltcev
 [telegram]: https://t.me/st_a_novoseltcev
 [linkedin]: https://linkedin.com/in/st-a-novoseltcev
+[email]: mailto:st.a.novoseltcev@gmail.com

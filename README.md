@@ -30,6 +30,6 @@
 [![VK](https://img.shields.io/badge/VK-1D334A?style=for-the-badge&logo=vk&logoColor=07f)][vk]
 
 
-[vk]: https://vk.com/st_a_novoseltcev
+[vk]: https://vk.com/st.a.novoseltcev
 [telegram]: https://t.me/st_a_novoseltcev
 [linkedin]: https://linkedin.com/in/st-a-novoseltcev

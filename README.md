@@ -20,17 +20,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D334A?style=for-the-badge&logo=postgresql&)
 
 ![Docker](https://img.shields.io/badge/Docker-1D334A?style=for-the-badge&logo=docker&)
+![Nginx](https://img.shields.io/badge/Nginx-1D334A?style=for-the-badge&logo=nginx&)
 ![Linux](https://img.shields.io/badge/Linux-1D334A?style=for-the-badge&logo=linux&)
-![HTML](https://img.shields.io/badge/Html-1D334A?style=for-the-badge&logo=html5&) 
 ![Git](https://img.shields.io/badge/Git-1D334A?style=for-the-badge&logo=git&)
 <br/>
 ### Contact with me:
 [![Telegram](https://img.shields.io/badge/Telegram-1D334A?style=for-the-badge&logo=telegram)][telegram] 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D334A?style=for-the-badge&logo=linkedin&logoColor=yellowgreen)][linkedin]
 [![Email](https://img.shields.io/badge/Email-1D334A?style=for-the-badge&logo=gmail&logoColor=07f)][email]
-<!-- [![VK](https://img.shields.io/badge/VK-1D334A?style=for-the-badge&logo=vk&logoColor=07f)][vk] -->
-
+[![VK](https://img.shields.io/badge/VK-1D334A?style=for-the-badge&logo=vk&logoColor=07f)][vk]
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-1D334A?style=for-the-badge&logo=linkedin&logoColor=yellowgreen)][linkedin] -->
 
 [telegram]: https://t.me/st_a_novoseltcev
 [linkedin]: https://linkedin.com/in/st-a-novoseltcev
 [email]: mailto:st.a.novoseltcev@gmail.com
+[vk]: https://vk.com/st.a.novoseltcev

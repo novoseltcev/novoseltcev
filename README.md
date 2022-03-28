@@ -28,7 +28,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-1D334A?style=for-the-badge&logo=telegram)][telegram] 
 [![Email](https://img.shields.io/badge/Email-1D334A?style=for-the-badge&logo=gmail&logoColor=07f)][email]
 [![VK](https://img.shields.io/badge/VK-1D334A?style=for-the-badge&logo=vk&logoColor=07f)][vk]
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-1D334A?style=for-the-badge&logo=linkedin&logoColor=yellowgreen)][linkedin] -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D334A?style=for-the-badge&logo=linkedin&logoColor=yellowgreen)][linkedin]
 
 [telegram]: https://t.me/novoseltcev_stanislav
 [linkedin]: https://www.linkedin.com/in/stanislav-novoseltcev-a09172236/

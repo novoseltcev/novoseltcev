@@ -32,5 +32,5 @@
 
 [telegram]: https://t.me/st_a_novoseltcev
 [linkedin]: https://linkedin.com/in/st-a-novoseltcev
-[email]: mailto:st.a.novoseltcev@gmail.com
-[vk]: https://vk.com/st.a.novoseltcev
+[email]: mailto:novoseltcev.stanislav@gmail.com
+[vk]: https://vk.com/novoseltcev.stanislav

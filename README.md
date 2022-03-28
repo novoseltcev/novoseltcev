@@ -30,7 +30,7 @@
 [![VK](https://img.shields.io/badge/VK-1D334A?style=for-the-badge&logo=vk&logoColor=07f)][vk]
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-1D334A?style=for-the-badge&logo=linkedin&logoColor=yellowgreen)][linkedin] -->
 
-[telegram]: https://t.me/st_a_novoseltcev
-[linkedin]: https://linkedin.com/in/st-a-novoseltcev
+[telegram]: https://t.me/novoseltcev_stanislav
+[linkedin]: https://www.linkedin.com/in/stanislav-novoseltcev-a09172236/
 [email]: mailto:novoseltcev.stanislav@gmail.com
 [vk]: https://vk.com/novoseltcev.stanislav

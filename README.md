@@ -9,7 +9,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-1D334A?style=for-the-badge&logo=javascript&)
 ![HTML](https://img.shields.io/badge/Html-1D334A?style=for-the-badge&logo=html5&) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novoseltcev&hide=verilog&theme=github_dark&langs_count=4&layout=compact&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novoseltcev&hide=verilog&theme=github_dark&layout=compact&hide_title=true)
 <br/>
 ### Tools:
 ![Flask](https://img.shields.io/badge/Flask-1D334A?style=for-the-badge&lfor-the-badgel&logo=flask&logoColor=orange)

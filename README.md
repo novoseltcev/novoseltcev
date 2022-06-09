@@ -14,13 +14,12 @@
 <br/>
 ### Tools:
 ![Flask](https://img.shields.io/badge/Flask-1D334A?style=for-the-badge&lfor-the-badgel&logo=flask&logoColor=orange)
-![SQLAlchemyORM](https://img.shields.io/badge/SQLAlchemyORM-1D334A?style=for-the-badge&logo=amazondynamodb&logoColor=red)
-![Celery](https://img.shields.io/badge/Celery-1D334A?style=for-the-badge&logo=celery&logoColor=green)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1D334A?style=for-the-badge&logo=amazondynamodb&logoColor=red)
 
-![Redis](https://img.shields.io/badge/redis-1D334A?style=for-the-badge&logo=redis&)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D334A?style=for-the-badge&logo=postgresql&)
-
 ![Docker](https://img.shields.io/badge/Docker-1D334A?style=for-the-badge&logo=docker&)
+![Redis](https://img.shields.io/badge/redis-1D334A?style=for-the-badge&logo=redis&)
+
 ![Nginx](https://img.shields.io/badge/Nginx-1D334A?style=for-the-badge&logo=nginx&logoColor=green)
 ![Apache2](https://img.shields.io/badge/Apache2-1D334A?style=for-the-badge&logo=apache&logoColor=purple)
 ![Linux](https://img.shields.io/badge/Linux-1D334A?style=for-the-badge&logo=linux&)

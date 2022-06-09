@@ -6,10 +6,11 @@
 ![Python](https://img.shields.io/badge/Python-1D334A?style=for-the-badge&logo=python&logoColor=yellowgreen) 
 ![C++](https://img.shields.io/badge/C++-1D334A?style=for-the-badge&logo=c%2b%2b&logoColor=blue) 
 ![Java](https://img.shields.io/badge/Java-1D334A?style=for-the-badge&logo=java&logoColor=6b593a) 
-![JS](https://img.shields.io/badge/JavaScript-1D334A?style=for-the-badge&logo=javascript&)
+
+![TS](https://img.shields.io/badge/TypeScript-1D334A?style=for-the-badge&logo=typescript&)
 ![HTML](https://img.shields.io/badge/Html-1D334A?style=for-the-badge&logo=html5&) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novoseltcev&hide=verilog&theme=github_dark&layout=compact&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novoseltcev&hide=verilog,blade&theme=github_dark&layout=compact&hide_title=true)
 <br/>
 ### Tools:
 ![Flask](https://img.shields.io/badge/Flask-1D334A?style=for-the-badge&lfor-the-badgel&logo=flask&logoColor=orange)
@@ -20,7 +21,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D334A?style=for-the-badge&logo=postgresql&)
 
 ![Docker](https://img.shields.io/badge/Docker-1D334A?style=for-the-badge&logo=docker&)
-![Nginx](https://img.shields.io/badge/Nginx-1D334A?style=for-the-badge&logo=nginx&)
+![Nginx](https://img.shields.io/badge/Nginx-1D334A?style=for-the-badge&logo=nginx&logoColor=green)
+![Apache2](https://img.shields.io/badge/Apache2-1D334A?style=for-the-badge&logo=apache&logoColor=purple)
 ![Linux](https://img.shields.io/badge/Linux-1D334A?style=for-the-badge&logo=linux&)
 ![Git](https://img.shields.io/badge/Git-1D334A?style=for-the-badge&logo=git&)
 <br/>

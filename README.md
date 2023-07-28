@@ -3,7 +3,7 @@
 <br/>
 
 ### Languages:
-![Python](https://img.shields.io/badge/Python-1D334A?style=for-the-badge&logo=python&logoColor=yellowgreen) https://github.com/novoseltcev/novoseltcev/blob/main/README.md
+![Python](https://img.shields.io/badge/Python-1D334A?style=for-the-badge&logo=python&logoColor=yellowgreen)
 ![C++](https://img.shields.io/badge/C++-1D334A?style=for-the-badge&logo=c%2b%2b&logoColor=blue) 
 ![Java](https://img.shields.io/badge/Java-1D334A?style=for-the-badge&logo=java&logoColor=6b593a) 
 

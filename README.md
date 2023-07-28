@@ -3,7 +3,7 @@
 <br/>
 
 ### Languages:
-![Python](https://img.shields.io/badge/Python-1D334A?style=for-the-badge&logo=python&logoColor=yellowgreen) 
+![Python](https://img.shields.io/badge/Python-1D334A?style=for-the-badge&logo=python&logoColor=yellowgreen) https://github.com/novoseltcev/novoseltcev/blob/main/README.md
 ![C++](https://img.shields.io/badge/C++-1D334A?style=for-the-badge&logo=c%2b%2b&logoColor=blue) 
 ![Java](https://img.shields.io/badge/Java-1D334A?style=for-the-badge&logo=java&logoColor=6b593a) 
 
@@ -13,6 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novoseltcev&hide=verilog,blade&theme=github_dark&layout=compact&hide_title=true)
 <br/>
 ### Tools:
+![FastAPI](https://img.shields.io/badge/FastAPI-1D334A?style=for-the-badge&lfor-the-badgel&logo=fastapi&logoColor=orange)
 ![Flask](https://img.shields.io/badge/Flask-1D334A?style=for-the-badge&lfor-the-badgel&logo=flask&logoColor=orange)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1D334A?style=for-the-badge&logo=amazondynamodb&logoColor=red)
 
@@ -29,9 +30,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-1D334A?style=for-the-badge&logo=telegram)][telegram] 
 [![Email](https://img.shields.io/badge/Email-1D334A?style=for-the-badge&logo=gmail&logoColor=07f)][email]
 [![VK](https://img.shields.io/badge/VK-1D334A?style=for-the-badge&logo=vk&logoColor=07f)][vk]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D334A?style=for-the-badge&logo=linkedin&logoColor=yellowgreen)][linkedin]
 
 [telegram]: https://t.me/novoseltcev_stanislav
-[linkedin]: https://www.linkedin.com/in/stanislav-novoseltcev-a09172236/
 [email]: mailto:novoseltcev.stanislav@gmail.com
 [vk]: https://vk.com/novoseltcev.stanislav
